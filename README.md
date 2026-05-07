@@ -1,19 +1,197 @@
-<h1 align="center">Hi 👋, I'm Ahsan Jamee</h1>
-<h3 align="center">A frontend Software Engineer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsanjamee&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanjamee" /> </p>
+# Ahsan Uz Zaman Jamee
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahsanjamee&theme=onedark" alt="ahsanjamee" /></a> </p>
+### Senior Software Engineer • AI Engineer • Product Builder
 
-- 📫 How to reach me **ahsanxami04@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahsanjamee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahsanjamee" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ahsanjamee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ahsanjamee" height="30" width="40" /></a>
+<p align="center">
+  Building scalable products, AI-powered workflows, and modern developer systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanjamee&" alt="ahsanjamee" /></p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=1000&lines=6%2B+Years+of+Software+Engineering+Experience;Building+AI-Powered+Products+and+Developer+Tools;LLM+Integrations+%7C+RAG+%7C+Agents+%7C+Automation;Frontend+Architecture+%7C+Scalable+Systems;Shipping+Fast+Without+Sacrificing+Quality" />
+
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ahsanjamee&style=for-the-badge&color=0e75b6" />
+
+</div>
+
+---
+
+# About Me
+
+I'm a senior software engineer focused on building modern, scalable products with strong UX, maintainable architecture, and AI-native workflows.
+
+Over the last 6+ years, I've worked across frontend systems, SaaS platforms, developer tooling, and product engineering.
+
+Currently focused on:
+
+- AI-powered products
+- Agentic workflows
+- LLM integrations
+- RAG systems
+- AI automation
+- AI developer tooling
+- Scalable frontend architecture
+- High-performance user experiences
+
+I enjoy turning complex ideas into fast, practical, production-ready systems.
+
+---
+
+# Core Expertise
+
+## AI Engineering
+
+- LLM Integrations
+- Retrieval-Augmented Generation (RAG)
+- AI Agents & Tool Calling
+- Prompt Engineering
+- AI Workflow Automation
+- Local LLM Deployment
+- Vector Database Integrations
+- Context Engineering
+- Multi-Agent Systems
+- AI SDK Integrations
+- Streaming AI Interfaces
+- Voice AI Systems
+
+---
+
+## Software Engineering
+
+- Frontend Architecture
+- Full Stack Product Development
+- Multi-tenant SaaS Platforms
+- Scalable UI Systems
+- API Design & Integrations
+- Performance Optimization
+- System Design
+- Developer Experience
+- Monorepo Architecture
+- Real-time Applications
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,nestjs,express,mongodb,postgres,redis,docker,kubernetes,aws,linux,git,github,vscode" />
+
+</div>
+
+---
+
+# AI Stack
+
+<div align="center">
+
+![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-111111?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-111111?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_Systems-111111?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-111111?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector_Databases-111111?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-111111?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-111111?style=for-the-badge)
+
+</div>
+
+---
+
+# Currently Exploring
+
+```txt
+→ AI-native product development
+→ Production-ready agent workflows
+→ AI-enhanced developer tooling
+→ Local-first AI systems
+→ High-performance frontend architecture
+→ Context-aware AI applications
+→ Automation systems for real businesses
+→ Shipping products faster with AI
+```
+
+---
+
+# Featured Areas
+
+<table>
+<tr>
+<td width="50%">
+
+### AI Systems
+
+- RAG pipelines
+- AI copilots
+- Agent orchestration
+- LLM streaming interfaces
+- AI chat systems
+- Voice AI workflows
+- Automation tools
+
+</td>
+
+<td width="50%">
+
+### Product Engineering
+
+- Frontend systems
+- SaaS applications
+- Developer platforms
+- Dashboard architecture
+- API-heavy systems
+- Real-time UX
+- Performance optimization
+
+</td>
+</tr>
+</table>
+
+---
+
+# GitHub Stats
+
+<div align="center">
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahsanjamee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahsanjamee&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsanjamee&theme=github-compact&hide_border=true" />
+
+</div>
+
+---
+
+# Connect
+
+<div align="left">
+
+<a href="https://www.linkedin.com/in/ahsan-jamee/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building useful systems with AI and software engineering.
+
+</div>
