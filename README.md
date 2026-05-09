@@ -30,11 +30,9 @@ Over the last 6+ years, I've worked across frontend systems, SaaS platforms, dev
 Currently focused on:
 
 - AI-powered products
-- Agentic workflows
 - LLM integrations
 - RAG systems
 - AI automation
-- AI developer tooling
 - Scalable frontend architecture
 - High-performance user experiences
 
@@ -49,13 +47,8 @@ I enjoy turning complex ideas into fast, practical, production-ready systems.
 - LLM Integrations
 - Retrieval-Augmented Generation (RAG)
 - AI Agents & Tool Calling
-- Prompt Engineering
-- AI Workflow Automation
-- Local LLM Deployment
 - Vector Database Integrations
 - Context Engineering
-- Multi-Agent Systems
-- AI SDK Integrations
 - Streaming AI Interfaces
 - Voice AI Systems
 
@@ -80,7 +73,7 @@ I enjoy turning complex ideas into fast, practical, production-ready systems.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,nestjs,express,mongodb,postgres,redis,docker,kubernetes,aws,linux,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,express,mongodb,redis,docker,aws,linux,git,github" />
 
 </div>
 
@@ -102,57 +95,6 @@ I enjoy turning complex ideas into fast, practical, production-ready systems.
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-111111?style=for-the-badge)
 
 </div>
-
----
-
-# Currently Exploring
-
-```txt
-→ AI-native product development
-→ Production-ready agent workflows
-→ AI-enhanced developer tooling
-→ Local-first AI systems
-→ High-performance frontend architecture
-→ Context-aware AI applications
-→ Automation systems for real businesses
-→ Shipping products faster with AI
-```
-
----
-
-# Featured Areas
-
-<table>
-<tr>
-<td width="50%">
-
-### AI Systems
-
-- RAG pipelines
-- AI copilots
-- Agent orchestration
-- LLM streaming interfaces
-- AI chat systems
-- Voice AI workflows
-- Automation tools
-
-</td>
-
-<td width="50%">
-
-### Product Engineering
-
-- Frontend systems
-- SaaS applications
-- Developer platforms
-- Dashboard architecture
-- API-heavy systems
-- Real-time UX
-- Performance optimization
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -189,9 +131,3 @@ I enjoy turning complex ideas into fast, practical, production-ready systems.
 </div>
 
 ---
-
-<div align="center">
-
-### Building useful systems with AI and software engineering.
-
-</div>
