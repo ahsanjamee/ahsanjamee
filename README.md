@@ -79,25 +79,6 @@ I enjoy turning complex ideas into fast, practical, production-ready systems.
 
 ---
 
-# AI Stack
-
-<div align="center">
-
-![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-111111?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-111111?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG_Systems-111111?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-111111?style=for-the-badge)
-![Vector DB](https://img.shields.io/badge/Vector_Databases-111111?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-111111?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-111111?style=for-the-badge)
-
-</div>
-
----
-
 # GitHub Stats
 
 <div align="center">
